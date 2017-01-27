@@ -1,4 +1,4 @@
-@-moz-document url-prefix("https://digg.com/reader/") {
+@-moz-document url-prefix("https://digg.com/reader/"), url-prefix("http://digg.com/reader/") {
 
 body {
    background-color: rgb(52,44,18);
@@ -176,5 +176,4 @@ li.story-action-item.story-action:hover{
 li.story-action-item.story-action.story-action-acted {
 	filter:brightness(7);
 }
-                                      
 }

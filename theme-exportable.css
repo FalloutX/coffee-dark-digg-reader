@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700|Overpass:400,700');
+@-moz-document url-prefix("https://digg.com/reader/") {
 
 body {
    background-color: rgb(52,44,18);
@@ -175,4 +175,6 @@ li.story-action-item.story-action:hover{
 }
 li.story-action-item.story-action.story-action-acted {
 	filter:brightness(7);
+}
+                                      
 }

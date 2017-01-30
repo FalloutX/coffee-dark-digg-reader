@@ -176,3 +176,7 @@ li.story-action-item.story-action:hover{
 li.story-action-item.story-action.story-action-acted {
 	filter:brightness(7);
 }
+
+.expanded .expanded .story-detail-view {
+    min-height: 0px
+}
